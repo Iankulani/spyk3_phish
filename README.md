@@ -48,10 +48,9 @@ python spyk3_phish.py
 ```
 
 
-
-
-
 # Conclusion
 spyk3_phish is a powerful reminder that security awareness must extend beyond email. When studied ethically, it transforms from a theoretical threat into a practical lesson in detection, response, and resilient system design.
 
+# Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/spyk3_phish&type=Date)](https://star-history.com/#Iankulani/spyk3_phish&Date)
