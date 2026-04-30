@@ -35,18 +35,23 @@ Modern attackers increasingly move to collaboration tools because they bypass tr
 
 * Implement behavior-based detection (e.g., a Slack bot that suddenly runs whoami)
 
-* Train users to report any unsolicited chat-based requests for credentials or code execution.
-
-# Conclusion
-spyk3_phish is a powerful reminder that security awareness must extend beyond email. When studied ethically, it transforms from a theoretical threat into a practical lesson in detection, response, and resilient system design.
-
-# How to clone the repo
+* Train users to report any unsolicited chat-based requests for credentials or code execution.# How to clone the repo
 ```bash
 git clone https://github.com/Iankulani/spyk3_phish.git
 cd spyk3_phish
 ```
 
 # How to run
+
 ```bash
 python spyk3_phish.py
 ```
+
+
+
+
+
+# Conclusion
+spyk3_phish is a powerful reminder that security awareness must extend beyond email. When studied ethically, it transforms from a theoretical threat into a practical lesson in detection, response, and resilient system design.
+
+
